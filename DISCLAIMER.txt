@@ -1,0 +1,59 @@
+DISCLAIMER — EDUCATIONAL PURPOSES ONLY
+
+Wizard Trends Inc. and all related software, indicators, dashboards, scripts, strategies, tools, systems, automation components, trade signals, market analytics, and educational content are provided strictly for educational and informational purposes only.
+
+Nothing provided by Wizard Trends Inc. constitutes financial advice, investment advice, trading advice, legal advice, or a recommendation to buy, sell, or hold any financial instrument, including but not limited to stocks, futures, options, forex, cryptocurrencies, or derivatives.
+
+Trading financial markets involves substantial risk and may result in partial or complete loss of capital. Past performance does not guarantee future results. Users are solely responsible for their own trading decisions, risk management, account activity, and financial outcomes.
+
+Wizard Trends Inc. makes no guarantees regarding:
+- profitability,
+- trade execution,
+- performance,
+- market accuracy,
+- signal reliability,
+- data accuracy,
+- system uptime,
+- or future market behavior.
+
+All trading decisions made using this software or any related material are done entirely at the user's own risk.
+
+Users should consult with a licensed financial professional before making financial or investment decisions.
+
+By downloading, installing, accessing, or using any Wizard Trends Inc. products or services, the user agrees that Wizard Trends Inc., its owners, developers, affiliates, contractors, and partners shall not be held liable for any financial losses, trading losses, indirect damages, lost profits, missed opportunities, account issues, broker issues, or damages arising from the use or misuse of the software, systems, or information provided.
+SOFTWARE AND SYSTEM LIABILITY DISCLAIMER
+
+Wizard Trends Inc. software, add-ons, indicators, scripts, applications, automation systems, integrations, and related components are provided "AS IS" without warranties of any kind, express or implied.
+
+While efforts are made to maintain stability and compatibility, users acknowledge that software may contain bugs, errors, incompatibilities, interruptions, latency issues, or unexpected behavior.
+
+Wizard Trends Inc. shall not be held liable for:
+- computer damage,
+- hardware failure,
+- software corruption,
+- operating system instability,
+- data loss,
+- data corruption,
+- network interruptions,
+- broker connectivity failures,
+- NinjaTrader issues,
+- third-party software conflicts,
+- antivirus conflicts,
+- system crashes,
+- memory leaks,
+- latency,
+- trading execution failures,
+- or any direct, indirect, incidental, consequential, or special damages resulting from installation or use of the software.
+
+Users are solely responsible for:
+- maintaining backups,
+- securing their systems,
+- testing software in simulation environments,
+- verifying compatibility,
+- and protecting their hardware and data.
+
+Users assume full responsibility for installing and operating the software on their systems.
+
+Wizard Trends Inc. does not guarantee uninterrupted operation, compatibility with all environments, or error-free performance.
+
+By installing, accessing, or using the software, the user acknowledges and accepts all associated risks and agrees to release Wizard Trends Inc. from any and all liability related to software usage, system performance, or hardware/software damages.

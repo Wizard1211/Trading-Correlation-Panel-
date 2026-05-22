@@ -1,0 +1,17 @@
+# Wizard Trends Inc 
+
+NinjaTrader Add-On
+
+NinjaTrader 8 add-on for market dashboard tools, correlation views, 
+
+## Installation
+
+1. Download the ZIP from GitHub.
+2. Open NinjaTrader 8.
+3. Go to Tools → Import → NinjaScript Add-On.
+4. Select the ZIP file.
+5. Restart NinjaTrader.
+
+## Disclaimer
+
+For educational and informational purposes only. Not financial advice.
