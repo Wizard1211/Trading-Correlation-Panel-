@@ -5,15 +5,16 @@ NinjaTrader 8  trading correlation dashboard add-on
 [▶ Watch Full Video](./TradingCorrelationPanel.mp4)
 
 
-
 ## Download and Install
+
+Download the latest NinjaTrader add-on from the [GitHub Releases Page](https://github.com/Wizard1211/Trading-Correlation-Panel-/releases/tag/v1.0)
 
 Minimum NinjaTrader Version: `8.1.6`
 
-Download the latest NinjaTrader import `.zip` from the GitHub releases page.
+Import into NinjaTrader:
 
-Import it into NinjaTrader like any other indicator add-on:
-
+```text
+Tools → Import → NinjaScript Add-On...
 
 
 
