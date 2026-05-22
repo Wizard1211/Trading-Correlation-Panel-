@@ -1,6 +1,6 @@
 # Trading-Correlation-Panel-
 NinjaTrader 8  trading correlation dashboard add-on
-
+<video src="TradingCorrelationPanel.mp4" controls width="900"></video>
 
 WT Correlation Panel Guide
 Overview
