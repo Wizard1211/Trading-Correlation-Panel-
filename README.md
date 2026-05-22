@@ -5,6 +5,18 @@ NinjaTrader 8  trading correlation dashboard add-on
 [▶ Watch Full Video](./TradingCorrelationPanel.mp4)
 
 
+
+## Download and Install
+
+Minimum NinjaTrader Version: `8.1.6`
+
+Download the latest NinjaTrader import `.zip` from the GitHub releases page.
+
+Import it into NinjaTrader like any other indicator add-on:
+
+
+
+
 WT Correlation Panel Guide
 Overview
 The WT Correlation Panel is a live multi-market correlation and market alignment dashboard for NinjaTrader.
